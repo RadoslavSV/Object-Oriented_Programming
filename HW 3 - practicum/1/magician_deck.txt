@@ -1,0 +1,6 @@
+Magician Deck|2|2|1
+Blue-Eyes White Dragon|A powerful engine of destruction|3000|2500
+Dark Magician|The ultimate wizard|2500|2100
+Swords of Light|Your opponent's monsters cannot attack|SPELL
+Mystic Box|Destroys one monster|SPELL
+King Kong|Defeats Godzilla easily|5500|6050|12|BUFF
