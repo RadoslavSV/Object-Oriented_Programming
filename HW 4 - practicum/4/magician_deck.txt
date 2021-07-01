@@ -1,0 +1,6 @@
+Magician Deck|5|2|2|1
+Dark Magician|The ultimate wizard|53|2500|2100
+Blue-Eyes White Dragon|A powerful engine of destruction|43|3000|2500
+Magic Cylinder|Inflict damage to your opponent|9|TRAP
+Mystic Box|Destroys one monster|0|SPELL
+Timegazer Magician|Your opponent cannot activate trap cards|3|1200|600|8|BUFF

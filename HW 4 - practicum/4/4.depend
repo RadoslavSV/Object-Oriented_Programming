@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1621065200 source:c:\users\user\desktop\oop\hw 4 - practicum\4\card.cpp
+	<iostream>
+	<string>
+	"Card.hpp"
+
+1621338546 c:\users\user\desktop\oop\hw 4 - practicum\4\card.hpp
+	<iostream>
+	<string>
+
+1621338836 source:c:\users\user\desktop\oop\hw 4 - practicum\4\main.cpp
+	<iostream>
+	"Duelist.hpp"
+
+1621338688 c:\users\user\desktop\oop\hw 4 - practicum\4\monstercard.hpp
+	<iostream>
+	<string>
+	"Card.hpp"
+
+1621065206 source:c:\users\user\desktop\oop\hw 4 - practicum\4\monstercard.cpp
+	<iostream>
+	<string>
+	"MonsterCard.hpp"
+
+1621065212 source:c:\users\user\desktop\oop\hw 4 - practicum\4\magiccard.cpp
+	<iostream>
+	<string>
+	"MagicCard.hpp"
+
+1621338696 c:\users\user\desktop\oop\hw 4 - practicum\4\magiccard.hpp
+	<iostream>
+	<string>
+	"Card.hpp"
+
+1621338744 c:\users\user\desktop\oop\hw 4 - practicum\4\pendulumcard.hpp
+	<iostream>
+	<string>
+	"MonsterCard.hpp"
+	"MagicCard.hpp"
+
+1621065218 source:c:\users\user\desktop\oop\hw 4 - practicum\4\pendulumcard.cpp
+	<iostream>
+	<string>
+	"PendulumCard.hpp"
+
+1621075622 source:c:\users\user\desktop\oop\hw 4 - practicum\4\deck.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"Deck.hpp"
+
+1621338884 c:\users\user\desktop\oop\hw 4 - practicum\4\deck.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Card.hpp"
+	"MonsterCard.hpp"
+	"MagicCard.hpp"
+	"PendulumCard.hpp"
+
+1621265505 source:c:\users\user\desktop\oop\hw 4 - practicum\4\duelist.cpp
+	<iostream>
+	<fstream>
+	<ostream>
+	<string>
+	<vector>
+	"Duelist.hpp"
+
+1621338903 c:\users\user\desktop\oop\hw 4 - practicum\4\duelist.hpp
+	<iostream>
+	<fstream>
+	<ostream>
+	<string>
+	<vector>
+	"Deck.hpp"
+
+1621065200 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\card.cpp
+	<iostream>
+	<string>
+	"Card.hpp"
+
+1621338546 c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\card.hpp
+	<iostream>
+	<string>
+
+1621075622 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\deck.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"Deck.hpp"
+
+1621338884 c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\deck.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Card.hpp"
+	"MonsterCard.hpp"
+	"MagicCard.hpp"
+	"PendulumCard.hpp"
+
+1621338688 c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\monstercard.hpp
+	<iostream>
+	<string>
+	"Card.hpp"
+
+1621338696 c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\magiccard.hpp
+	<iostream>
+	<string>
+	"Card.hpp"
+
+1621338744 c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\pendulumcard.hpp
+	<iostream>
+	<string>
+	"MonsterCard.hpp"
+	"MagicCard.hpp"
+
+1621265505 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\duelist.cpp
+	<iostream>
+	<fstream>
+	<ostream>
+	<string>
+	<vector>
+	"Duelist.hpp"
+
+1621338903 c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\duelist.hpp
+	<iostream>
+	<fstream>
+	<ostream>
+	<string>
+	<vector>
+	"Deck.hpp"
+
+1621065212 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\magiccard.cpp
+	<iostream>
+	<string>
+	"MagicCard.hpp"
+
+1621338836 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\main.cpp
+	<iostream>
+	"Duelist.hpp"
+
+1621065206 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\monstercard.cpp
+	<iostream>
+	<string>
+	"MonsterCard.hpp"
+
+1621065218 source:c:\users\user\desktop\uniwork\oop\hw 4 - practicum\4\pendulumcard.cpp
+	<iostream>
+	<string>
+	"PendulumCard.hpp"
+
