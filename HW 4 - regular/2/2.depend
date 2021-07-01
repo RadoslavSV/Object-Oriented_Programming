@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1622019763 source:c:\users\user\desktop\oop\hw 4 - regular\2\document.cpp
+	"Document.hpp"
+
+1622102770 c:\users\user\desktop\oop\hw 4 - regular\2\document.hpp
+	<string>
+	"Object.hpp"
+
+1622019758 source:c:\users\user\desktop\oop\hw 4 - regular\2\keyvaluedatabse.cpp
+	"KeyValueDatabase.hpp"
+
+1622102843 c:\users\user\desktop\oop\hw 4 - regular\2\keyvaluedatabase.hpp
+	<string>
+	"Object.hpp"
+
+1622106416 source:c:\users\user\desktop\oop\hw 4 - regular\2\object.cpp
+	"Object.hpp"
+
+1622108419 c:\users\user\desktop\oop\hw 4 - regular\2\object.hpp
+	<string>
+	"Comparable.hpp"
+	"Debug.hpp"
+	"Serializable.hpp"
+
+1622019747 source:c:\users\user\desktop\oop\hw 4 - regular\2\serializable.cpp
+	"Serializable.hpp"
+
+1622105576 c:\users\user\desktop\oop\hw 4 - regular\2\serializable.hpp
+	<string>
+
+1622104330 source:c:\users\user\desktop\oop\hw 4 - regular\2\main.cpp
+	<iostream>
+	"Comparable.hpp"
+	"Debug.hpp"
+	"Document.hpp"
+	"KeyValueDatabase.hpp"
+	"Object.hpp"
+	"Serializable.hpp"
+
+1622104982 c:\users\user\desktop\oop\hw 4 - regular\2\comparable.hpp
+
+1622105015 c:\users\user\desktop\oop\hw 4 - regular\2\debug.hpp
+	<string>
+

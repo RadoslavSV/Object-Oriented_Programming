@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1621943663 source:c:\users\user\desktop\oop\hw 4 - regular\1\averager.cpp
+	"Averager.hpp"
+
+1621867792 source:c:\users\user\desktop\oop\hw 4 - regular\1\backlogpublisher.cpp
+	"BacklogPublisher.hpp"
+
+1622018847 source:c:\users\user\desktop\oop\hw 4 - regular\1\movingaverager.cpp
+	"MovingAverager.hpp"
+
+1621942325 source:c:\users\user\desktop\oop\hw 4 - regular\1\periodicsampler.cpp
+	"PeriodicSampler.hpp"
+
+1622213578 source:c:\users\user\desktop\oop\hw 4 - regular\1\repository.cpp
+	"Repository.hpp"
+
+1621867788 source:c:\users\user\desktop\oop\hw 4 - regular\1\simplepublisher.cpp
+	"SimplePublisher.hpp"
+
+1621942343 c:\users\user\desktop\oop\hw 4 - regular\1\averager.hpp
+	"Message.hpp"
+	<string>
+	"Subscriber.hpp"
+
+1621856914 c:\users\user\desktop\oop\hw 4 - regular\1\message.hpp
+
+1621853614 source:c:\users\user\desktop\oop\hw 4 - regular\1\subscriber.cpp
+
+1622213563 source:c:\users\user\desktop\oop\hw 4 - regular\1\main.cpp
+	"Message.hpp"
+	"Averager.hpp"
+	"MovingAverager.hpp"
+	"BacklogPublisher.hpp"
+	"SimplePublisher.hpp"
+	"PeriodicSampler.hpp"
+	"Repository.hpp"
+	"Subscriber.hpp"
+	<assert.h>
+	<iostream>
+
+1621942450 c:\users\user\desktop\oop\hw 4 - regular\1\subscriber.hpp
+	"Message.hpp"
+	<string>
+	<vector>
+
+1621942346 c:\users\user\desktop\oop\hw 4 - regular\1\movingaverager.hpp
+	"Message.hpp"
+	<string>
+	"Subscriber.hpp"
+
+1621867773 c:\users\user\desktop\oop\hw 4 - regular\1\backlogpublisher.hpp
+	"Averager.hpp"
+	"Message.hpp"
+	"MovingAverager.hpp"
+	"PeriodicSampler.hpp"
+	"Subscriber.hpp"
+	"Publisher.hpp"
+	<vector>
+
+1621867753 c:\users\user\desktop\oop\hw 4 - regular\1\simplepublisher.hpp
+	"Averager.hpp"
+	"Message.hpp"
+	"MovingAverager.hpp"
+	"PeriodicSampler.hpp"
+	"Subscriber.hpp"
+	"Publisher.hpp"
+	<vector>
+
+1621942349 c:\users\user\desktop\oop\hw 4 - regular\1\periodicsampler.hpp
+	"Message.hpp"
+	<string>
+	"Subscriber.hpp"
+
+1622220287 c:\users\user\desktop\oop\hw 4 - regular\1\repository.hpp
+	"Averager.hpp"
+	"MovingAverager.hpp"
+	"PeriodicSampler.hpp"
+	"Subscriber.hpp"
+	"Publisher.hpp"
+	<string>
+	<vector>
+
+1621934830 c:\users\user\desktop\oop\hw 4 - regular\1\publisher.hpp
+	"Averager.hpp"
+	"Message.hpp"
+	"MovingAverager.hpp"
+	"PeriodicSampler.hpp"
+	"Subscriber.hpp"
+	<vector>
+
+1621867765 source:c:\users\user\desktop\oop\hw 4 - regular\1\publisher.cpp
+	"Publisher.hpp"
+
