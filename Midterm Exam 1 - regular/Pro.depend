@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1621611164 source:c:\users\user\desktop\pro\cpp.cpp
+	"HPP.hpp"
+	<vector>
+	<string>
+	<cstring>
+	<iostream>
+
+1621611604 c:\users\user\desktop\pro\hpp.hpp
+	<vector>
+	<string>
+	<cstring>
+	<iostream>
+
+1621611531 source:c:\users\user\desktop\pro\main.cpp
+	<iostream>
+	"HPP.hpp"
+
